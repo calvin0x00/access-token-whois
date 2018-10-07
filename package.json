@@ -1,0 +1,25 @@
+{
+  "name": "access-token-whois",
+  "version": "0.0.1",
+  "description": "Access token identification and user profile requesting",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvin0x00/access-token-whois.git"
+  },
+  "author": "Calvin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvin0x00/access-token-whois/issues"
+  },
+  "homepage": "https://github.com/calvin0x00/access-token-whois#readme",
+  "dependencies": {
+    "node-fetch": "^2.2.0"
+  }
+}
